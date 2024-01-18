@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there!
+
+### Learning
+- nvim
+- python
+- scala
+- algorithms
+
+Perpetually tweaking my [rice](https://github.com/edthu/dots)!
 
 <!--
 **edthu/edthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
