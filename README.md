@@ -1,5 +1,7 @@
 ### Hello there!
 
+[My website!](https://edthu.xyz)
+
 ### Learning
 - nvim
 - python
