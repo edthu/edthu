@@ -1,5 +1,7 @@
 ### Hello there!
 
+https://edthu.xyz
+
 [My website!](https://edthu.xyz)
 
 [Nvim etc configs](https://github.com/edthu/dots)
