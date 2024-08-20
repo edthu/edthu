@@ -2,13 +2,7 @@
 
 [My website!](https://edthu.xyz)
 
-### Learning
-- nvim
-- python
-- scala
-- algorithms
-
-Perpetually tweaking my [rice](https://github.com/edthu/dots)!
+[Nvim etc configs](https://github.com/edthu/dots)
 
 <!--
 **edthu/edthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
